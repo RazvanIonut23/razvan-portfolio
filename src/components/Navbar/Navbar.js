@@ -23,7 +23,7 @@ const Navbar = () => {
       setstate("home");
     } else if (scrollPosition <= 900) {
       setstate("about");
-    } else if (scrollPosition <= 1550) {
+    } else if (scrollPosition <= 1720) {
       setstate("skills");
     } else if (scrollPosition <= 1800) {
       setstate("work");
