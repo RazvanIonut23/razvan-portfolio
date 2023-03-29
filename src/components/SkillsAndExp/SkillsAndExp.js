@@ -32,7 +32,7 @@ const SkillsAndExp = () => {
           </p>
         </div>
         <div className={s.tehnologies}>
-          <img src={skills} alt="" />
+          <img src={skills} alt="" className={s.skillsImg} />
         </div>
       </div>
     </div>

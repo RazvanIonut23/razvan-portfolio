@@ -2,7 +2,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 90vh;
+  height: 100%;
 
   .containerAbout {
     display: flex;
@@ -33,6 +33,8 @@
 
     .socialMContainer {
       display: flex;
+      flex-direction: column;
+      align-items: center;
       gap: 1em;
     }
 
@@ -70,6 +72,10 @@
         font-size: 1.2rem !important;
         color: white;
         font-weight: 600;
+      }
+      .socialMContainer {
+        flex-direction: row;
+        justify-content: flex-start;
       }
     }
   }

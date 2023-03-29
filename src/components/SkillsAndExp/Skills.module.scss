@@ -1,5 +1,5 @@
 .skills {
-  height: 90vh;
+  height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -29,6 +29,10 @@
     .tehnologies {
       display: flex;
       justify-content: center;
+      .skillsImg {
+        width: 100%;
+        max-width: 400px;
+      }
     }
   }
 }
@@ -42,6 +46,11 @@
       .infos > p {
         font-size: 1.2rem;
         color: white;
+      }
+      .tehnologies {
+        .skillsImg {
+          min-width: 400px;
+        }
       }
     }
   }

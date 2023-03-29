@@ -13,7 +13,8 @@
   }
   .socialMContainer {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
     width: 100%;
     gap: 1em;
   }
@@ -34,5 +35,13 @@
     color: white;
     border: 1px solid white;
     box-shadow: 0px 0px 5px #fff;
+  }
+}
+@media (min-width: 750px) {
+  .footer {
+    .socialMContainer {
+      flex-direction: row;
+      justify-content: center;
+    }
   }
 }
