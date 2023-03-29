@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/razvan-portfolio/static/css/main.d776e963.css",
-    "main.js": "/razvan-portfolio/static/js/main.d6c170fa.js",
+    "main.js": "/razvan-portfolio/static/js/main.dbec1c8d.js",
     "static/js/787.0d8989f3.chunk.js": "/razvan-portfolio/static/js/787.0d8989f3.chunk.js",
     "static/media/ecommerce.svg": "/razvan-portfolio/static/media/ecommerce.ab3fc3bb8129b07a0162bf8aaa71eebe.svg",
     "static/media/Netflix.svg": "/razvan-portfolio/static/media/Netflix.d4c98faa0a21923e6739d8d14a0a9e65.svg",
     "static/media/backgroundImg.svg": "/razvan-portfolio/static/media/backgroundImg.0b3c6f31e21c2a8654d3.svg",
-    "static/media/Guster Razvan_Resume.pdf": "/razvan-portfolio/static/media/Guster Razvan_Resume.41dd35db8d77132f1b1c.pdf",
+    "static/media/Guster Razvan_Resume.pdf": "/razvan-portfolio/static/media/Guster Razvan_Resume.74b5cc1550f7978fa606.pdf",
     "static/media/innovx.svg": "/razvan-portfolio/static/media/innovx.0205cdf482ab4364cca20605aeb06807.svg",
     "static/media/brand-icons.svg": "/razvan-portfolio/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/Thunder.svg": "/razvan-portfolio/static/media/Thunder.7673f7c5bd4b22df88efc994eb2b8ec2.svg",
@@ -34,11 +34,11 @@
     "static/media/outline-icons.woff2": "/razvan-portfolio/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/razvan-portfolio/index.html",
     "main.d776e963.css.map": "/razvan-portfolio/static/css/main.d776e963.css.map",
-    "main.d6c170fa.js.map": "/razvan-portfolio/static/js/main.d6c170fa.js.map",
+    "main.dbec1c8d.js.map": "/razvan-portfolio/static/js/main.dbec1c8d.js.map",
     "787.0d8989f3.chunk.js.map": "/razvan-portfolio/static/js/787.0d8989f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d776e963.css",
-    "static/js/main.d6c170fa.js"
+    "static/js/main.dbec1c8d.js"
   ]
 }
