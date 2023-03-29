@@ -1,0 +1,28 @@
+.work {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  .workContainer {
+    width: 100%;
+    max-width: 1250px;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 1rem;
+
+    .infos {
+      display: flex;
+      flex-direction: column;
+      gap: 2em;
+    }
+    .infos > h2 {
+      font-size: 4rem !important;
+      color: #08fdd8;
+      font-weight: 600;
+    }
+    .infos > p {
+      font-size: 1rem;
+      color: white;
+    }
+  }
+}

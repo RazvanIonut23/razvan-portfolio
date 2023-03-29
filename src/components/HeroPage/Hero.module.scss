@@ -1,0 +1,40 @@
+.hero {
+  height: 89vh;
+  background-image: url("../../images/backgroundImg.svg");
+  display: flex;
+  justify-content: center;
+}
+
+.heroContainer {
+  width: 100%;
+  max-width: 1250px;
+  min-width: 280px;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  justify-content: center;
+  padding: 1em;
+  .heroName {
+    max-width: 800px;
+  }
+  .heroButton {
+    color: rgb(8, 253, 216);
+    font-weight: 600;
+    font-size: 1.2rem;
+    border: 1px solid #08fdd8;
+    background-color: inherit;
+    max-width: 220px;
+    padding: 1em;
+    box-shadow: 0px 0px 5px #08fdd8;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .heroButton:hover {
+    color: white;
+    border: 1px solid white;
+    box-shadow: 0px 0px 5px #fff;
+  }
+}

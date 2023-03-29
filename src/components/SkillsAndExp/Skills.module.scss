@@ -1,0 +1,48 @@
+.skills {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .skillsContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    max-width: 1250px;
+    padding: 1rem;
+    .infos {
+      display: flex;
+      flex-direction: column;
+      gap: 2em;
+    }
+    .infos > h2 {
+      font-size: 4rem !important;
+      color: #08fdd8;
+      font-weight: 600;
+    }
+    .infos > p {
+      font-size: 1rem;
+      color: white;
+    }
+    .infos > p > a {
+      color: #08fdd8;
+    }
+    .tehnologies {
+      display: flex;
+      justify-content: center;
+    }
+  }
+}
+
+@media (min-width: 1000px) {
+  .skills {
+    height: 65vh;
+    .skillsContainer {
+      flex-direction: row;
+      align-items: center;
+      .infos > p {
+        font-size: 1.2rem;
+        color: white;
+      }
+    }
+  }
+}

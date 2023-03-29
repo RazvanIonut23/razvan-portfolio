@@ -1,0 +1,76 @@
+.aboutMe {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+
+  .containerAbout {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 1250px;
+    padding: 2rem;
+    .aboutImg {
+      width: 200px;
+    }
+    .infoContainer {
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+    }
+    .infoContainer > h2 {
+      font-size: 4rem !important;
+      color: #08fdd8;
+      font-weight: 600;
+    }
+
+    .infoContainer > p {
+      font-size: 1rem !important;
+      color: white;
+      font-weight: 600;
+    }
+
+    .socialMContainer {
+      display: flex;
+      gap: 1em;
+    }
+
+    .socialIcon {
+      color: rgb(8, 253, 216);
+      font-weight: 600;
+      font-size: 1.2rem;
+      border: 1px solid #08fdd8;
+      background-color: inherit;
+      width: 100%;
+      max-width: 220px;
+      padding: 1em;
+      box-shadow: 0px 0px 5px #08fdd8;
+      text-align: center;
+      text-decoration: none;
+    }
+    .socialIcon:hover {
+      color: white;
+      border: 1px solid white;
+      box-shadow: 0px 0px 5px #fff;
+    }
+  }
+}
+
+@media (min-width: 750px) {
+  .aboutMe {
+    height: 65vh;
+    .containerAbout {
+      flex-direction: row-reverse;
+      padding-right: 0;
+      .aboutImg {
+        width: 340px;
+      }
+      .infoContainer > p {
+        font-size: 1.2rem !important;
+        color: white;
+        font-weight: 600;
+      }
+    }
+  }
+}
