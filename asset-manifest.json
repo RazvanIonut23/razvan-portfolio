@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/razvan-portfolio/static/css/main.3adf1198.css",
-    "main.js": "/razvan-portfolio/static/js/main.c4ac38fc.js",
+    "main.css": "/razvan-portfolio/static/css/main.d776e963.css",
+    "main.js": "/razvan-portfolio/static/js/main.d6c170fa.js",
     "static/js/787.0d8989f3.chunk.js": "/razvan-portfolio/static/js/787.0d8989f3.chunk.js",
     "static/media/ecommerce.svg": "/razvan-portfolio/static/media/ecommerce.ab3fc3bb8129b07a0162bf8aaa71eebe.svg",
     "static/media/Netflix.svg": "/razvan-portfolio/static/media/Netflix.d4c98faa0a21923e6739d8d14a0a9e65.svg",
@@ -33,12 +33,12 @@
     "static/media/outline-icons.woff": "/razvan-portfolio/static/media/outline-icons.ddae9b1ba9b0b42f5880.woff",
     "static/media/outline-icons.woff2": "/razvan-portfolio/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/razvan-portfolio/index.html",
-    "main.3adf1198.css.map": "/razvan-portfolio/static/css/main.3adf1198.css.map",
-    "main.c4ac38fc.js.map": "/razvan-portfolio/static/js/main.c4ac38fc.js.map",
+    "main.d776e963.css.map": "/razvan-portfolio/static/css/main.d776e963.css.map",
+    "main.d6c170fa.js.map": "/razvan-portfolio/static/js/main.d6c170fa.js.map",
     "787.0d8989f3.chunk.js.map": "/razvan-portfolio/static/js/787.0d8989f3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3adf1198.css",
-    "static/js/main.c4ac38fc.js"
+    "static/css/main.d776e963.css",
+    "static/js/main.d6c170fa.js"
   ]
 }
