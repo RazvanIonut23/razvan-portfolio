@@ -16,7 +16,7 @@ const AboutMe = () => {
             building and maintaining responsive websites. Motivated and
             self-learner, able to manage a project and deliver the best user
             experience by combining the latest web technologies.Proficient in
-            HTML, CSS, JavaScript; plus modern libraries and frameworks.
+            HTML, CSS, JavaScript, React, plus modern libraries and frameworks.
           </p>
           <div className={s.socialMContainer}>
             <a href="mailto:gusterrazvan@gmail.com" className={s.socialIcon}>
